@@ -1,0 +1,50 @@
+body {
+    font-family: Lato;
+    src: url(/Lato/Lato-Black.ttf);
+    margin: auto;
+}
+
+section {
+    margin: auto;
+    padding: 0;
+}
+
+h1 {
+    margin: auto;
+    padding: 0.5em;
+    color: #c9edeb;
+}
+
+button {
+    background: none;
+    margin: 0;
+    padding: 0;
+    border: none;
+}
+
+.upperMenu {
+    background: #e85358;
+    display: flex;
+}
+
+.upperMenu img {
+    margin: 0.5em;
+}
+
+.profile img{
+    width: 100%;
+    height: 100%;
+}
+
+.profile h2{
+    margin: -5em 0;
+}
+
+.profile h2:nth-child(2){
+    font-weight: normal;
+    color: aqua;
+}
+
+.basicInfo {
+    margin: -5em 0 ;
+}
